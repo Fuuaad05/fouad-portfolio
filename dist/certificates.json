@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "isc2-cc",
+    "title": "Certified in Cybersecurity (CC)",
+    "issuer": "ISC2",
+    "date": "February 2026",
+    "kind": "Certification",
+    "group": "foundations",
+    "verification": "https://www.credly.com/badges/20cf821b-2c49-4ac4-91bf-19e7397d34c9/linked_in_profile",
+    "verificationLabel": "Verify on Credly"
+  },
+  {
+    "slug": "google-cybersecurity",
+    "title": "Google Cybersecurity Professional Certificate",
+    "issuer": "Google \u00b7 Coursera",
+    "date": "October 2026",
+    "kind": "Professional certificate",
+    "group": "foundations",
+    "verification": "https://www.credly.com/badges/054c0dd9-a0a0-43ba-9655-e076be1eb4ad/linked_in_profile",
+    "verificationLabel": "Verify on Credly"
+  },
+  {
+    "slug": "cisco-ethical-hacker",
+    "title": "Ethical Hacker",
+    "issuer": "Cisco Networking Academy",
+    "date": "July 2026",
+    "kind": "Course completion",
+    "group": "cisco",
+    "verification": "https://www.credly.com/badges/927e3efa-40b0-4430-8f05-b3ca03667fcf/linked_in_profile",
+    "verificationLabel": "Verify on Credly"
+  },
+  {
+    "slug": "cisco-junior-analyst",
+    "title": "Junior Cybersecurity Analyst Career Path",
+    "issuer": "Cisco Networking Academy",
+    "date": "July 2026",
+    "kind": "Completed career path",
+    "group": "cisco",
+    "verification": "https://www.credly.com/badges/a2f27983-37e3-4d8e-a5d8-36ed7ce08cbe/linked_in_profile",
+    "verificationLabel": "Verify on Credly"
+  },
+  {
+    "slug": "tryhackme-advent-2025",
+    "title": "Advent of Cyber 2025",
+    "issuer": "TryHackMe",
+    "date": "December 2025",
+    "kind": "24 challenges completed",
+    "group": "tryhackme",
+    "verification": "https://tryhackme.com/certificate/THM-NYE5FPZDVZ",
+    "verificationLabel": "Verify on TryHackMe"
+  },
+  {
+    "slug": "cisco-endpoint-security",
+    "title": "Endpoint Security",
+    "issuer": "Cisco Networking Academy",
+    "date": "November 2025",
+    "kind": "Course completion",
+    "group": "cisco",
+    "verification": "https://www.credly.com/badges/baff4742-ed48-405f-affd-603bbec5a6c2/linked_in_profile",
+    "verificationLabel": "Verify on Credly"
+  },
+  {
+    "slug": "cisco-network-defense",
+    "title": "Network Defense",
+    "issuer": "Cisco Networking Academy",
+    "date": "July 2026",
+    "kind": "Course completion",
+    "group": "cisco",
+    "verification": "https://www.credly.com/badges/a00a8933-8fe2-432c-a6d5-1af18444c84e/linked_in_profile",
+    "verificationLabel": "Verify on Credly"
+  },
+  {
+    "slug": "cisco-threat-management",
+    "title": "Cyber Threat Management",
+    "issuer": "Cisco Networking Academy",
+    "date": "July 2026",
+    "kind": "Course completion",
+    "group": "cisco",
+    "verification": "https://www.credly.com/badges/6c526f33-261d-443a-a13a-240db68de72a/linked_in_profile",
+    "verificationLabel": "Verify on Credly"
+  },
+  {
+    "slug": "cisco-networking-basics",
+    "title": "Networking Basics",
+    "issuer": "Cisco Networking Academy",
+    "date": "November 2024",
+    "kind": "Course completion",
+    "group": "cisco",
+    "verification": "https://www.credly.com/badges/91c0a381-1792-43b0-82fd-2a553920c5c3/linked_in_profile",
+    "verificationLabel": "Verify on Credly"
+  },
+  {
+    "slug": "cisco-networking-devices",
+    "title": "Networking Devices and Initial Configuration",
+    "issuer": "Cisco Networking Academy",
+    "date": "December 2024",
+    "kind": "Course completion",
+    "group": "cisco",
+    "verification": "https://www.credly.com/badges/df0e5473-7d73-43c7-a065-43f5eb0742a2/linked_in_profile",
+    "verificationLabel": "Verify on Credly"
+  },
+  {
+    "slug": "cisco-introduction",
+    "title": "Introduction to Cybersecurity",
+    "issuer": "Cisco Networking Academy",
+    "date": "August 2024",
+    "kind": "Course completion",
+    "group": "cisco",
+    "verification": "https://www.credly.com/badges/7ce84de4-38b0-49f9-9b4e-74e70b2fd320/linked_in_profile",
+    "verificationLabel": "Verify on Credly"
+  }
+]

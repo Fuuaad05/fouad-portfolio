@@ -1,0 +1,12 @@
+FOUAD PORTFOLIO — LATEST VERSION
+
+Includes the reordered sections, real project screenshots, Autopsy and MongoDB findings, supporting Hadoop lab, certificate gallery, playful laptop, terminal, cyber intro, and blue favicon.
+
+1. Unzip this main download first.
+2. The dist folder contains the complete website source (HTML, CSS, JavaScript and assets).
+3. For a manual Amplify deployment, upload Amplify_Ready.zip from inside this package. Its index.html is at the root.
+4. For a GitHub-connected deployment, upload the source folders and amplify.yml to your repository; the publish directory is dist.
+5. To preview locally, run python -m http.server 8000 inside dist and open http://localhost:8000.
+
+AWS hosting is not configured by this download. Deploy the site with Amplify and capture its deployment screenshot for the challenge submission.
+AgentArena’s exact personal contribution still needs confirmation; its notes currently describe the project focus and screenshot-supported observations.
